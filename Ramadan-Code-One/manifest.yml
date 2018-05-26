@@ -1,0 +1,6 @@
+---
+applications:
+ - name: Ramadan-code
+   random-route: true
+   buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+   memory: 128M
