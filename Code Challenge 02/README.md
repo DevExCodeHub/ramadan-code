@@ -20,7 +20,7 @@ It is an API that helps you to exploit the insights and understand sentiment fro
 [This article](https://www.linkedin.com/pulse/ibm-watson-series-extract-sentiment-from-text-nora-alnashwan/) contains a step-by-step guide to use the service API in Node.js.
 
 ## The Challenge
-Which of these expressions will return the highest positivity using Watson Natural Language Understanding service?
+Which of these expressions will return the highest positivity score using Watson Natural Language Understanding service?
 1. توقَّف عن لوم نفسك على الكبيرة والصغيرة.
 
     <a class="twitter-share-button"
