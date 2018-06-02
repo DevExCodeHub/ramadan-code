@@ -1,10 +1,10 @@
-#Welcome to Ramadan Code Challenges
+# Welcome to Ramadan Code Challenges
 Starting this Ramadan, we post a challenge on Saturday 11th and 18th of Ramadan at 10:00 PM. There is an award for the first correct answer, and a promo code for the first five correct answers.
 
-##Ready for a code challenge? Read on ...
+## Ready for a code challenge? Read on ...
 This week you will write a script to extract sentiment 👍🏼👎🏼 from a written text using Watson Natural Language Understanding service in IBM Cloud.
 
-##About Watson Natural Language Understanding Service
+## About Watson Natural Language Understanding Service
 It is an API that helps you to exploit the insights and understand sentiment from text. You send a text and you will get a response in JSON that indicates the sentiment. Following is an example response:
 ```JSON
 {
@@ -16,10 +16,10 @@ It is an API that helps you to exploit the insights and understand sentiment fro
  }
 }
 ```
-##How to use it
+## How to use it
 [This article](https://www.linkedin.com/pulse/ibm-watson-series-extract-sentiment-from-text-nora-alnashwan/) contains a step-by-step guide to use the service API in Node.js.
 
-##The Challenge
+## The Challenge
 Which of these expressions will return the highest positivity using Watson Natural Language Understanding service?
 1. توقَّف عن لوم نفسك على الكبيرة والصغيرة.
 
